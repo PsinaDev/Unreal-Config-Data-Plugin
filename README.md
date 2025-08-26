@@ -54,6 +54,7 @@ The plugin provides a custom Blueprint node that automatically handles type cast
 
 ![Async Load Data Blueprint Node](images/async_load_data_node.png)
 
+![](images/async_load_data_node_weapon.png)
 #### Using Blueprint Functions:
 
 You can also use the subsystem functions directly:
