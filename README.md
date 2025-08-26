@@ -229,4 +229,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For issues, feature requests, and support:
 
-- **GitHub Issues**: [DataConfigSystem Issues](https://github.com/YourUsername/DataConfigSystem/issues)
+- **GitHub Issues**: [DataConfigSystem Issues](https://github.com/PsinaDev/Unreal-Config-Data-Plugin/issues)
