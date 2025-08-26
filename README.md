@@ -1,6 +1,6 @@
 # DataConfigSystem
 
-**DataConfigSystem** is a powerful and lightweight global configuration system for Unreal Engine 5 that allows you to store, manage, and asynchronously load assets using GameplayTags. Originally designed for loading game configuration data like DataTables and DataAssets, but basically can be used for loading any UObject-derived asset in a centralized, type-safe manner.
+**DataConfigSystem** is a simple and lightweight global system for loading game data using GameplayTags. Originally designed for loading game configuration data like DataTables and DataAssets, but basically can be used for loading any UObject-derived asset in a centralized, type-safe manner.
 
 ## Features
 
@@ -54,6 +54,7 @@ The plugin provides a custom Blueprint node that automatically handles type cast
 
 ![Async Load Data Blueprint Node](images/async_load_data_node.png)
 
+![](images/async_load_data_node_weapon.png)
 #### Using Blueprint Functions:
 
 You can also use the subsystem functions directly:
