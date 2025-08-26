@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DataConfigNodes.cpp.obj": [
+			"DataConfigNodes.init.gen.cpp.obj",
+			"K2Node_AsyncLoadData.gen.cpp.obj",
+			"K2Node_CustomAsyncTask.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"K2Node_CustomAsyncTask.cpp.obj",
+			"DataConfigNodes.cpp.obj",
+			"DataConfigStyle.cpp.obj",
+			"K2Node_AsyncLoadData.cpp.obj"
+		]
+	}
+}

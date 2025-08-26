@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DataConfigSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/yabaz/Documents/UnrealProjects/protocolterminate/Intermediate/Build/Win64/x64/ProtocolTerminateEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_5.h.obj"
+"C:/Users/yabaz/Documents/UnrealProjects/protocolterminate/Plugins/DataConfigSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DataConfigSystem/Module.DataConfigSystem.cpp.obj"
+"C:/Users/yabaz/Documents/UnrealProjects/protocolterminate/Plugins/DataConfigSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DataConfigSystem/AsyncLoadData.cpp.obj"
+"C:/Users/yabaz/Documents/UnrealProjects/protocolterminate/Plugins/DataConfigSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DataConfigSystem/Default.rc2.res"
+/OUT:"C:/Users/yabaz/Documents/UnrealProjects/protocolterminate/Plugins/DataConfigSystem/Intermediate/Build/Win64/x64/UnrealEditor/Development/DataConfigSystem/UnrealEditor-DataConfigSystem.lib"

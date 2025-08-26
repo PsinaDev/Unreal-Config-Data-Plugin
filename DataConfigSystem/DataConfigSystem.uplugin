@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DataConfigSystem",
+	"Description": "A global config system that is not demanding on the type of config assets",
+	"Category": "Other",
+	"CreatedBy": "Stalker7274 (Roma) - Subsystem & loading, PsinaDev (Kim) - K2Node & DeveloperSettings",
+	"CreatedByURL": "https://github.com/PsinaDev | https://github.com/Stalker72742",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DataConfigSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "DataConfigNodes",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"SupportURL": "https://github.com/PsinaDev/Unreal-Config-Data-Plugin/issues"
+}

@@ -1,0 +1,8 @@
+{
+	"BuildId": "43139311",
+	"Modules": 
+	{
+		"DataConfigNodes": "UnrealEditor-DataConfigNodes.dll",
+		"DataConfigSystem": "UnrealEditor-DataConfigSystem.dll"
+	}
+}

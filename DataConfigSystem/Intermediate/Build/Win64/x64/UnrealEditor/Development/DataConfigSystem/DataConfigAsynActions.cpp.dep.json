@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\source\\dataconfigsystem\\private\\dataconfigasynactions.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\intermediate\\build\\win64\\x64\\protocolterminateeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_5.h.pch",
+        "Includes": [
+            "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dataconfigsystem\\definitions.dataconfigsystem.h",
+            "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\source\\dataconfigsystem\\public\\dataconfigasynactions.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\experimental\\iostore\\ondemandcore\\public\\io\\iostoreondemand.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\containers\\sharedstring.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\experimental\\iostore\\ondemandcore\\public\\io\\ondemandhostgroup.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\experimental\\iostore\\ondemandcore\\public\\io\\ondemandtoc.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\io\\iocontainerid.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\misc\\packageaccesstracking.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\misc\\sourcelocationutils.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\experimental\\streamablemanagererror.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dataconfigsystem\\uht\\dataconfigasynactions.generated.h",
+            "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\source\\dataconfigsystem\\public\\configsubsyslogcategory.h",
+            "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\source\\dataconfigsystem\\public\\datadevsettings.h",
+            "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\dataconfigsystem\\uht\\datadevsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

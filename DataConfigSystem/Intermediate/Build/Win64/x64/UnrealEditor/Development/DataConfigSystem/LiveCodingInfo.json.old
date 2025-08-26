@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DataConfigSystem.cpp.obj": [
+			"AsyncLoadData.gen.cpp.obj",
+			"DataConfigAsynActions.gen.cpp.obj",
+			"DataConfigSubsystem.gen.cpp.obj",
+			"DataConfigSystem.init.gen.cpp.obj",
+			"DataDevSettings.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"DataConfigAsynActions.cpp.obj",
+			"DataConfigSubsystem.cpp.obj",
+			"DataConfigSystem.cpp.obj",
+			"DataDevSettings.cpp.obj",
+			"AsyncLoadData.cpp.obj"
+		]
+	}
+}

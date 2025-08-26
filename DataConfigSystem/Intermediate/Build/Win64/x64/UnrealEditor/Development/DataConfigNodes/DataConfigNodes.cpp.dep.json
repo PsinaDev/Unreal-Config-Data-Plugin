@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\source\\dataconfignodes\\private\\dataconfignodes.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\intermediate\\build\\win64\\x64\\protocolterminateeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_5.h.pch",
+        "Includes": [
+            "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dataconfignodes\\definitions.dataconfignodes.h",
+            "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\source\\dataconfignodes\\public\\dataconfignodes.h",
+            "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\source\\dataconfignodes\\public\\dataconfigstyle.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

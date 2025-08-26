@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\source\\dataconfignodes\\private\\dataconfigstyle.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\intermediate\\build\\win64\\x64\\protocolterminateeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_5.h.pch",
+        "Includes": [
+            "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dataconfignodes\\definitions.dataconfignodes.h",
+            "c:\\users\\yabaz\\documents\\unrealprojects\\protocolterminate\\plugins\\dataconfigsystem\\source\\dataconfignodes\\public\\dataconfigstyle.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyleregistry.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\plugindisalloweddescriptor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\projects\\public\\versescope.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
