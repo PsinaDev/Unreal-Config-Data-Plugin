@@ -46,8 +46,8 @@ git clone https://github.com/PsinaDev/Unreal-Config-Data-Plugin DataConfigSystem
 
 ## Authors
 
-* **Stalker7274 (Roma)** — Subsystem & asset loading
-* **PsinaDev (Kim)** — K2Node & DeveloperSettings
+[* **Stalker7274 (Roma)**](https://github.com/Stalker72742) — Subsystem & asset loading
+[* **PsinaDev (Kim)**](https://github.com/PsinaDev) — K2Node & DeveloperSettings
 
 ---
 
