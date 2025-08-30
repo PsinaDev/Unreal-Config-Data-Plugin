@@ -19,7 +19,7 @@
 
 ## Installation
 
-*Note: release version of plugin may differ from the source code version in the repository due to minor fixes. See [commits](https://github.com/PsinaDev/Unreal-Config-Data-Plugin/commits) for relevant changes*
+*Note: release version of plugin may differ from the source code version in the repository due to minor fixes. Releases are updated on major updates. See [commits](https://github.com/PsinaDev/Unreal-Config-Data-Plugin/commits) for relevant changes*
 
 ### Method 1: Git Clone
 ```bash
