@@ -21,13 +21,13 @@ public:
 protected:
 	// Main data configuration map
 	UPROPERTY(Config, EditAnywhere, Category="Data Configuration",
-		meta=(GetAllowedClasses="GetAllowedClassNames", AllowAbstract,
+		meta=(GetAllowedClasses="GetAllowedClassNames",
 			  ToolTip="Map of GameplayTags to data assets filtered by ClassFilters"))
 	TMap<FGameplayTag, TSoftObjectPtr<UObject>> Data;
 
 	// Class filters for asset validation
-	UPROPERTY(Config, EditAnywhere, Category="Data Configuration",
-		meta=(ToolTip="Only assets of these classes (or their subclasses) will be allowed in the Data map"))
+	UPROPERTY(Config, EditAnywhere, Category="Data Configuration", 
+		meta=(ToolTip="Only assets of these classes (or their subclasses) will be allowed in the Data map", AllowAbstract))
 	TArray<UClass*> ClassFilters = {UDataAsset::StaticClass(),UDataTable::StaticClass()};
 
 	// Validation settings
