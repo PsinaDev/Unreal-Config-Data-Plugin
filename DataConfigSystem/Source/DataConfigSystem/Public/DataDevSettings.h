@@ -21,7 +21,7 @@ public:
 protected:
 	// Main data configuration map
 	UPROPERTY(Config, EditAnywhere, Category="Data Configuration",
-		meta=(GetAllowedClasses="GetAllowedClassNames",
+		meta=(GetAllowedClasses="GetAllowedClassNames", AllowAbstract,
 			  ToolTip="Map of GameplayTags to data assets filtered by ClassFilters"))
 	TMap<FGameplayTag, TSoftObjectPtr<UObject>> Data;
 
